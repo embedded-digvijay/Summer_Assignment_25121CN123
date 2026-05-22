@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/https_digvijay/Documents/Digvijay's Coding Cronicals/Summer_assignment_25121CN123",
+      "program": "/Users/https_digvijay/Documents/Digvijay's Coding Cronicals/Summer_assignment_25121CN123/build/Debug/outDebug"
+    }
+  ]
+}
